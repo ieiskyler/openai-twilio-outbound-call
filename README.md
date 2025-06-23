@@ -1,4 +1,7 @@
 # OpenAI - Twilio Realtime Voice Assistant
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ieiskyler/openai-twilio-outbound-call/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/ieiskyler/openai-twilio-outbound-call/?branch=main)
+[![Build Status](https://scrutinizer-ci.com/g/ieiskyler/openai-twilio-outbound-call/badges/build.png?b=main)](https://scrutinizer-ci.com/g/ieiskyler/openai-twilio-outbound-call/build-status/main)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/ieiskyler/openai-twilio-outbound-call/badges/code-intelligence.svg?b=main)](https://scrutinizer-ci.com/code-intelligence)
 
 This project lets you make outbound phone calls using Twilio, streaming audio to an AI assistant (OpenAI or MiniMax) in realtime.
 
