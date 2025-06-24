@@ -52,7 +52,6 @@ python main.py --call=+1234567890
 
 ## Notes
 
-- **Never commit your `.env` file!**
 - Make sure you comply with all legal requirements for outbound AI calls.
 
 ## License
