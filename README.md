@@ -18,7 +18,9 @@ This project lets you make outbound phone calls using Twilio, streaming audio to
 
 ```bash
 git clone https://github.com/ieiskyler/openai-twilio-outbound-call
-cd your-repo-name
+cd openai-twilio-outbound-call
+
+
 ```
 
 ### 2. Install dependencies
